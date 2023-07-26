@@ -35,7 +35,7 @@
 <br>
 <br>
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dana4056)](https://solved.ac/dana4056)
+![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dana4056)
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle=dana4056&theme=warm)
 
 </div>
